@@ -82,8 +82,12 @@ header {
 
 .banner {
     max-width: 100%;
+<<<<<<< HEAD
     background-image: url(/assets/img/background1.jpg);
     filter: grayscale(50%);
+=======
+    background-image: url(https://raw.githubusercontent.com/roaccat/roaccatsocial/main/cssindex/assets/img/background.png);
+>>>>>>> 096027cd2a38422d56c81301a2debbc63598f8fc
     background-position: bottom left;
     background-repeat: repeat;
     background-color: white;
@@ -147,6 +151,7 @@ header {
     text-align: center;
     display: block;
 }
+<<<<<<< HEAD
 
 /* İletişim Kısmı */
 
@@ -194,3 +199,5 @@ input[type=submit]:hover {
     color: white;
 }
 
+=======
+>>>>>>> 096027cd2a38422d56c81301a2debbc63598f8fc
