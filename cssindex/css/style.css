@@ -1,0 +1,115 @@
+body {
+    background-color: white;
+    max-width: 100%;
+    margin:0;
+    padding:0;
+}
+
+/* HEADER BOLUMU BASLANGIC */
+header {
+    max-width: 100%;
+    background-color: black;
+}
+
+.header-ic {
+    max-width: 1100px;
+    margin: auto;
+}
+
+p.logo {
+    color: white;
+}
+
+ul.menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+ul li.menu1 {
+    display: inline;
+    padding: 20px;
+    font-size: 20px;
+    float: right;
+}
+
+a.menu2 {
+    color: white;
+    text-decoration: none;
+}
+
+p.logo {
+    position: absolute;
+    font-size: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+/* Banner Kısmı */
+
+.banner {
+    max-width: 100%;
+    background-image: url(/assets/img/background.png);
+    background-position: bottom left;
+    background-repeat: repeat;
+    background-color: white;
+}
+
+#banner {
+    max-width: 1100px;
+    margin: auto;
+    padding-bottom: 92vh;
+}
+
+p.yazi {
+    float: left;
+    display: block;
+    font-size: 50px;
+    font-family: 'Source Sans Pro', sans-serif;
+    padding-top: 25vh;
+}
+
+img#resim {
+    float: right;
+    display: block;
+    max-width: 250px;
+    padding-top: 25vh;
+    padding-right: 0vh;
+}
+
+/* Hakkımda Kısmı */
+
+.whois {
+    max-width: 100%;
+    background-image: url(/assets/img/background.png);
+    background-position: bottom left;
+    background-repeat: repeat;
+    background-color: white;
+}
+
+#whois {
+    max-width: 1100px;
+    margin: auto;
+    padding-bottom: 25vh;
+    padding-top: 35vh;
+}
+
+img#resim2 {
+    float: left;
+    display: block;
+    max-width: 300px;
+}
+
+h2.yazi2 {
+    font-size: 50px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+p.yazi3 {
+    text-align: center;
+    display: block;
+}
