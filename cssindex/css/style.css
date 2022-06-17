@@ -82,12 +82,8 @@ header {
 
 .banner {
     max-width: 100%;
-<<<<<<< HEAD
     background-image: url(/assets/img/background1.jpg);
     filter: grayscale(50%);
-=======
-    background-image: url(https://raw.githubusercontent.com/roaccat/roaccatsocial/main/cssindex/assets/img/background.png);
->>>>>>> 096027cd2a38422d56c81301a2debbc63598f8fc
     background-position: bottom left;
     background-repeat: repeat;
     background-color: white;
@@ -151,7 +147,6 @@ header {
     text-align: center;
     display: block;
 }
-<<<<<<< HEAD
 
 /* İletişim Kısmı */
 
@@ -171,6 +166,10 @@ header {
     padding-bottom: 22vh;
 }
 
+.contact label {
+    color: white;
+}
+
 input[type=text], select, textarea {
     width: 100%; 
     padding: 12px;  
@@ -182,7 +181,7 @@ input[type=text], select, textarea {
     resize: vertical 
 }
   
-  input[type=submit] {
+input[type=submit] {
     background-color: #04AA6D;
     color: white;
     padding: 12px 20px;
@@ -194,10 +193,3 @@ input[type=text], select, textarea {
 input[type=submit]:hover {
     background-color: #45a049;
 }
-
-.contact label {
-    color: white;
-}
-
-=======
->>>>>>> 096027cd2a38422d56c81301a2debbc63598f8fc
