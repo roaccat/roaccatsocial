@@ -50,7 +50,7 @@ p.logo {
 
 .banner {
     max-width: 100%;
-    background-image: url(/assets/img/background.png);
+    background-image: url(https://raw.githubusercontent.com/roaccat/roaccatsocial/main/cssindex/assets/img/background.png);
     background-position: bottom left;
     background-repeat: repeat;
     background-color: white;
@@ -82,7 +82,7 @@ img#resim {
 
 .whois {
     max-width: 100%;
-    background-image: url(/assets/img/background.png);
+    background-image: url(https://raw.githubusercontent.com/roaccat/roaccatsocial/main/cssindex/assets/img/background.png);
     background-position: bottom left;
     background-repeat: repeat;
     background-color: white;
