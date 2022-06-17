@@ -83,7 +83,7 @@ header {
 
 .banner {
     max-width: 100%;
-    background-image: url(/assets/img/background1.jpg);
+    background-image: url(https://raw.githubusercontent.com/roaccat/roaccatsocial/main/cssindex/assets/img/background1.jpg);
     background-position: bottom left;
     background-color: white;
     display: block;
@@ -188,7 +188,7 @@ header {
 
 .contact {
     max-width: 100%;
-    background-image: url(/assets/img/background3.jpg);
+    background-image: url(https://raw.githubusercontent.com/roaccat/roaccatsocial/main/cssindex/assets/img/background3.jpg);
     filter: grayscale(50%);
     background-position: bottom left;
     background-repeat: repeat;
